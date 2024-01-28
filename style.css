@@ -1,0 +1,10 @@
+h1{
+    color: rgb(8, 8, 8);
+    text-align: center;
+    font-size: 100px;
+    margin-top: 15%;
+    text-shadow: 2px 2px 4px #000000; 
+}
+body{
+    background-image: url(Independence.jpg);
+}
